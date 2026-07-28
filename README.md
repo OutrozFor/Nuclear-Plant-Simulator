@@ -231,7 +231,7 @@ python tk_gui.py
 
 # 👩‍💻 Author
 
-**Julia Fernanda Terra Souza**
+**Julia Terra**
 
 Nuclear Engineering Undergraduate
 
