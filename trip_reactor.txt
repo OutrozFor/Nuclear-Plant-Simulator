@@ -1,0 +1,29 @@
+1. Sintomas ou Condições de Entrada
+
+- Sinais de trip do reator Source Ranger High Level : 10^5 CPS
+- Intermediate Range High Level : Equivalent Current of 25% Power
+- Power Range High Level : 25% Power ( Low Setpoint )
+- Power Range High Level : 109% Power ( High Setpoint )
+- Over Temperature Delta T Trip: 103%
+- Over Power Delta Power : 103%
+- Pressurizer High Pressure : 167, 72 Kg/cm^2
+- Pressurizer High Level : 92%
+- Pressurizer Low Pressure : 136, 78 Kg/cm^2
+- Reactor Coolant Low Low : 90%
+- Reactor Coolant Pump Stop by Low Frequency : 57, 5 Hz + 0, 6 sec ( Delay Time)
+- Reactor Coolant Pump Stop by Low Voltage : 70% + 1, 5 sec ( Delay Time)
+- Steam Generator Low Low Level : 17%
+- Turbine Trip
+- Safety Injection
+
+2. Sintomas de Sinais de Trip do Reator
+
+- Reactor Trip Alarm on
+- Decrease Neutron Level
+- All Rod Drop in Bottom
+
+3. Sinais de Injeção de Segurança
+
+- RCS Low Pressure : 126 Kg/cm^2
+- Steam Line Low Pressure : 41, 14 Kg/cm^2
+- Containment High Pressure : 0, 35 Kg/cm^2
