@@ -184,7 +184,7 @@ NuclearPlantSimulator/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/NuclearPlantSimulator.git
+git clone https://github.com/OutrozFor/NuclearPlantSimulator.git
 ```
 
 Enter the project folder:
