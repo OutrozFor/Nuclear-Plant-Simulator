@@ -5,7 +5,7 @@ from datetime import datetime
 
 # --- Persistência e Logging (Banco de Dados) ---
 # Essa classe gerencia toda a conexão com o banco de dados SQLite.
-# Eu escolhi usar SQLite por ser leve e não precisar de servidor instalado.
+# escolhi usar SQLite por ser leve e não precisar de servidor instalado.
 class DatabaseHandler:
     def __init__(self, db_name="nuclear_simulation.db"):
         self.conn = sqlite3.connect(db_name, check_same_thread=False)
